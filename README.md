@@ -1,6 +1,6 @@
 # Credit Scoring Model using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on building a **Credit Scoring Model using Machine Learning** to predict whether a loan applicant is likely to default on a loan.
 
@@ -8,12 +8,12 @@ The project was developed as part of a Machine Learning internship/project and u
 
 The target variable used in the project is `loan_status`:
 
-- `0` → Non-default
-- `1` → Default
+`0` → Non-default
+`1` → Default
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -30,7 +30,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project uses the **Credit Risk Dataset**.
 
@@ -50,10 +50,3 @@ The dataset contains information related to:
 - Previous default history
 - Credit history length
 
-### Target Variable
-
-`loan_status`
-
-```text
-0 = Non-default
-1 = Default
